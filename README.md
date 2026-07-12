@@ -1,6 +1,6 @@
 # Hi, I'm Dumkele Osaje 👋
 
-**CS & AI Student @ University of Bath | 2nd Year | Computational Systems Biology | TechBio | Bioinformatics **
+CS & AI Student @ University of Bath | 2nd Year | Computational Systems Biology | TechBio | Bioinformatics 
 
 I am a computer science and artificial intelligence student investigating the intersection of machine learning and human metabolic health. My core research interest is applying computational methods to understand **chronic hyperinsulinaemia** as a unified upstream driver of diseases currently treated as distinct clinical entities.
 
