@@ -1,4 +1,4 @@
-# Hi, I'm Dumkele Osaje 👋
+# Hi, I'm Dumkele Osaje 
 
 CS & AI Student @ University of Bath | 2nd Year | Computational Systems Biology | TechBio | Bioinformatics 
 
@@ -23,7 +23,7 @@ I am currently building a three-part computational portfolio exploring metabolic
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 **Machine Learning & Data Science:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
