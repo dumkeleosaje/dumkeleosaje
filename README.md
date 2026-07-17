@@ -6,7 +6,7 @@ I am a computer science and artificial intelligence student investigating the in
 
 ---
 
-### 🧬 Summer 2026: The Metabolic AI Portfolio
+### The Metabolic AI Portfolio
 
 I am currently building a three-part computational portfolio exploring metabolic dysfunction across different biological scales. 
 
